@@ -15,14 +15,18 @@
 ### 📊 Platform Dashboards & Voice Hub
 <table align="center">
   <tr>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Leader+Dashboard" width="210" alt="Leader Dashboard"/>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/daed5072-1355-4f50-b874-2c246b89f905" width="500" alt="Leader Dashboard"/>
       <br><sub><b>1. Leader Control Panel</b></sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Badge+Catalog" width="210" alt="Badge Catalog"/>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/a4aa9539-9673-4145-a0b2-375dbd934db9" width="500" alt="Badge Catalog"/>
       <br><sub><b>2. Badge & Award System</b></sub>
     </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
     <td align="center" width="25%">
       <img src="https://via.placeholder.com/210x440?text=Voice+Publisher" width="210" alt="Voice Publisher"/>
       <br><sub><b>3. AI Voice News Publisher</b></sub>
