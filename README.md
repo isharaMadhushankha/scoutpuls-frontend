@@ -27,12 +27,12 @@
 </table>
 <table align="center">
   <tr>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Voice+Publisher" width="210" alt="Voice Publisher"/>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/14a0c4f4-d69a-481e-8909-54422bfaa2aa" width="500" alt="Voice Publisher"/>
       <br><sub><b>3. AI Voice News Publisher</b></sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://via.placeholder.com/210x440?text=Scout+Profiles" width="210" alt="Scout Profiles"/>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/bb20604e-3037-4146-9df1-24ab513a3de3" width="500" alt="Scout Profiles"/>
       <br><sub><b>4. Personalized Scout View</b></sub>
     </td>
   </tr>
