@@ -10,14 +10,6 @@
 
 ---
 
-## 🚀 Live Links & Repositories
-
-- 🌐 **Live Web Application:** [Launch ScoutPuls](https://scoutpuls-frontend.vercel.app/)
-- ⚙️ **Backend REST API Node:** [Azure App Service Endpoint](https://scoutpuls-backend-fng0akf9akhyhghp.southeastasia-01.azurewebsites.net)
-- 📂 **Source Repository (Backend):** [GitHub Repository](https://github.com/isharaMadhushankha/scoutpuls-backend)
-
----
-
 ## 📸 UI Screenshots & Workspace
 
 ### 📊 Platform Dashboards & Voice Hub
@@ -196,6 +188,3 @@ Fire up the backend microservice engine:
 ```bash
 npm start
 
-මේක කෙලින්ම ඔයාගේ ප්‍රොජෙක්ට් එකේ `README.md` එක විදිහට සේව් කරගන්න මචං! 👍
-
-```
